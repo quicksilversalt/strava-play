@@ -1,5 +1,4 @@
 var express = require('express')
-,fs = require('fs')
 ,strava = require('strava-v3');
 
 var app = express();
